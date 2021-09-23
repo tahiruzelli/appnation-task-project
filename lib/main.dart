@@ -33,6 +33,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'github-search-repo',
         theme: ThemeData(
           primarySwatch: Colors.blue,

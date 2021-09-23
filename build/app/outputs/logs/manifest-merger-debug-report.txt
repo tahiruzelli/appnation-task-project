@@ -7,6 +7,7 @@ INJECTED from /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/
 MERGED from /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:1:1-41:12
 MERGED from [:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [:google_sign_in] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/62b274eb1d5a61beb89e504ac46b32e2/jetified-firebase-analytics-19.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/cb85e813550ceb859d5d8655b705694f/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
@@ -80,6 +81,8 @@ MERGED from [:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-
 MERGED from [:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/62b274eb1d5a61beb89e504ac46b32e2/jetified-firebase-analytics-19.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/62b274eb1d5a61beb89e504ac46b32e2/jetified-firebase-analytics-19.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/cb85e813550ceb859d5d8655b705694f/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
@@ -176,6 +179,8 @@ MERGED from [:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-
 MERGED from [:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:19.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/62b274eb1d5a61beb89e504ac46b32e2/jetified-firebase-analytics-19.0.1/AndroidManifest.xml:5:5-44
@@ -334,6 +339,14 @@ ADDED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-s
 		ADDED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/cb85e813550ceb859d5d8655b705694f/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/d3490d9d81ebe2d7174eb29e4a32f867/jetified-play-services-measurement-api-19.0.1/AndroidManifest.xml:23:5-79
