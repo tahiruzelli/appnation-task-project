@@ -52,8 +52,7 @@ class LoginMainView extends StatelessWidget {
               } else if (state is AuthenticationLoading) {
                 return const Center(child: CircularProgressIndicator());
               }
-              return Center(
-                  child: Text('Bilinmeyen durum : ${state.runtimeType}'));
+              return Container();
             },
           );
         },
