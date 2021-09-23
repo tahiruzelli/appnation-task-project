@@ -86,6 +86,10 @@ google_sign_in_web
 2.12
 file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+3/
 file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+3/lib/
+http
+2.12
+file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3/
+file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3/lib/
 http_parser
 2.12
 file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/
@@ -118,6 +122,10 @@ path
 2.12
 file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/
 file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib/
+pedantic
+2.12
+file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/
+file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/lib/
 plugin_platform_interface
 2.12
 file:///Users/tahiruzelli/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.0.1/

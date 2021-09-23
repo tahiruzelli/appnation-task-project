@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:github_search_repo/authenticaiton/bloc/authentication_bloc.dart';
 import 'package:github_search_repo/login/views/login_main_view.dart';
+import 'package:github_search_repo/services/fetch.dart';
 
 class HomeMainView extends StatelessWidget {
   @override
