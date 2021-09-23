@@ -1,16 +1,17 @@
 # github_search_repo
+ 
+ Projede Multiblocprovider yapisi kullanilmistir. 
 
-A new Flutter project.
+Google sign in yapilmis olup, auto login, logout gibi islemler de yapilmistir. 
 
-## Getting Started
+Arama kisminda performans kazanma acisindan kullanici her yazdiginda istek atmak yerine yazdiktan sonra 1 saniye bekleyip baska bir sey yazip silmediyse istek atiyor. Ayriyetten arama butonuna basinca da istek atiyor. 
 
-This project is a starting point for a Flutter application.
+Bottom navigation bar olarak verdigim bir sayfada gozukecek data sayisini arttirip azaltarak yeni istek atabiliyoruz.
 
-A few resources to get you started if this is your first Flutter project:
+Karta tikladigimiz zaman repoya yonlendirme yapiyor.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Proje süresi: 6 saat
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Zorlandigim kisimlar: 
+ * Google sign islemini yaparken "sign_in_failed" diye bir hata donuyordu bunun ustunde cok zaman kaybettim. Cozumum ise sha1 kodunu firebaseye yanlis verdigimi kesfedip yenisini girmekle oldu.
+ * multiblocprovider yapisini ilk defa kullandigim icin bir cok hata aldim bunlarin cozumunu ogrenip gerceklemem de oldukca vakit aldi.
