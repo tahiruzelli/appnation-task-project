@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "306611675042",
+    "project_id": "github-search-repo",
+    "storage_bucket": "github-search-repo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306611675042:android:61661f0599d6b519b39cfb",
+        "android_client_info": {
+          "package_name": "com.example.github_search_repo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306611675042-g7ji6ukulpsitvlgpp45sa6ud9jf2mj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZFZ85Dnqdsayu88wGX6M-8cAGw8axbSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306611675042-g7ji6ukulpsitvlgpp45sa6ud9jf2mj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306611675042-jt73k9o3hmvtmjvggeh3r0gv1pk6loia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
