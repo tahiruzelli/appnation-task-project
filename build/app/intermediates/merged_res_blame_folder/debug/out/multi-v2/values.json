@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,716",
-                        "endColumns": "143,81,103,108,119,101,78",
-                        "endOffsets": "194,276,380,489,609,711,790"
-                    },
-                    "to": {
-                        "startLines": "111,112,113,114,115,116,117",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "8183,8327,8409,8513,8622,8742,8844",
-                        "endColumns": "143,81,103,108,119,101,78",
-                        "endOffsets": "8322,8404,8508,8617,8737,8839,8918"
-                    }
-                },
-                {
-                    "source": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -128,6 +111,23 @@
                         "startOffsets": "166,224,290,353,1350,1421",
                         "endColumns": "57,65,62,61,70,71",
                         "endOffsets": "219,285,348,410,1416,1488"
+                    }
+                },
+                {
+                    "source": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,716",
+                        "endColumns": "143,81,103,108,119,101,78",
+                        "endOffsets": "194,276,380,489,609,711,790"
+                    },
+                    "to": {
+                        "startLines": "111,112,113,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8183,8327,8409,8513,8622,8742,8844",
+                        "endColumns": "143,81,103,108,119,101,78",
+                        "endOffsets": "8322,8404,8508,8617,8737,8839,8918"
                     }
                 }
             ]

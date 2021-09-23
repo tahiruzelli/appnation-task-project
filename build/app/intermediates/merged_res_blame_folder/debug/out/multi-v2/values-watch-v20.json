@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/21fc497f72d2a3e375db6850aaab2e84/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",

@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 15-->[com.google.firebase:firebase-auth:21.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/cb85e813550ceb859d5d8655b705694f/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 15-->[com.google.firebase:firebase-auth:21.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/cb85e813550ceb859d5d8655b705694f/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:22-76
@@ -25,28 +25,28 @@
 17-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/df3f69fd7600987b904c6335e6ca0b86/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:26:22-107
 18
 19    <application
-19-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:3:4-40:19
+19-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:3:4-40:19
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.1.0] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:icon="@mipmap/ic_launcher"
-22-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:5:9-43
+22-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:5:9-43
 23        android:label="github_search_repo" >
-23-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:4:9-43
+23-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:4:9-43
 24        <activity
-24-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:6:9-34:20
+24-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:6:9-34:20
 25            android:name="com.example.github_search_repo.MainActivity"
-25-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:7:13-41
+25-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:7:13-41
 26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-26-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:10:13-163
+26-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:10:13-163
 27            android:hardwareAccelerated="true"
-27-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:11:13-47
+27-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:11:13-47
 28            android:launchMode="singleTop"
-28-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:8:13-43
+28-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:8:13-43
 29            android:theme="@style/LaunchTheme"
-29-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:9:13-47
+29-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:9:13-47
 30            android:windowSoftInputMode="adjustResize" >
-30-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:12:13-55
+30-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:12:13-55
 31
 32            <!--
 33                 Specifies an Android theme to apply to this Activity as soon as
@@ -55,11 +55,11 @@
 36                 to determine the Window background behind the Flutter UI.
 37            -->
 38            <meta-data
-38-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:17:13-20:17
+38-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:17:13-20:17
 39                android:name="io.flutter.embedding.android.NormalTheme"
-39-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:18:15-70
+39-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:18:15-70
 40                android:resource="@style/NormalTheme" />
-40-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:19:15-52
+40-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:19:15-52
 41            <!--
 42                 Displays an Android View that continues showing the launch screen
 43                 Drawable until Flutter paints its first frame, then this splash
@@ -68,21 +68,21 @@
 46                 Flutter's first frame.
 47            -->
 48            <meta-data
-48-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:26:13-29:17
+48-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:26:13-29:17
 49                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-49-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:27:15-79
+49-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:27:15-79
 50                android:resource="@drawable/launch_background" />
-50-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:28:15-61
+50-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:28:15-61
 51
 52            <intent-filter>
-52-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:30:13-33:29
+52-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:30:13-33:29
 53                <action android:name="android.intent.action.MAIN" />
-53-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:31:17-68
-53-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:31:25-66
+53-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:31:17-68
+53-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:31:25-66
 54
 55                <category android:name="android.intent.category.LAUNCHER" />
-55-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:32:17-76
-55-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:32:27-74
+55-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:32:17-76
+55-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:32:27-74
 56            </intent-filter>
 57        </activity>
 58        <!--
@@ -90,32 +90,32 @@
 60             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 61        -->
 62        <meta-data
-62-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:37:9-39:33
+62-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:37:9-39:33
 63            android:name="flutterEmbedding"
-63-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:38:13-44
+63-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:38:13-44
 64            android:value="2" />
-64-->/Users/tahiruzelli/Documents/GitHub/github_search_repo/android/app/src/main/AndroidManifest.xml:39:13-30
+64-->/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/android/app/src/main/AndroidManifest.xml:39:13-30
 65
 66        <service
-66-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+66-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 67            android:name="com.google.firebase.components.ComponentDiscoveryService"
-67-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+67-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 68            android:directBootAware="true"
 68-->[com.google.firebase:firebase-common:20.0.0] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/e8c12af64c0d197211b7d090cb61cdf8/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
 69            android:exported="false" >
 69-->[com.google.firebase:firebase-auth:21.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/cb85e813550ceb859d5d8655b705694f/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
 70            <meta-data
-70-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+70-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 71                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-71-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+71-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 72                android:value="com.google.firebase.components.ComponentRegistrar" />
-72-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+72-->[:firebase_auth] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 73            <meta-data
-73-->[:firebase_core] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+73-->[:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 74                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-74-->[:firebase_core] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+74-->[:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 75                android:value="com.google.firebase.components.ComponentRegistrar" />
-75-->[:firebase_core] /Users/tahiruzelli/Documents/GitHub/github_search_repo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+75-->[:firebase_core] /Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 76            <meta-data
 76-->[com.google.firebase:firebase-auth:21.0.1] /Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/cb85e813550ceb859d5d8655b705694f/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
 77                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"

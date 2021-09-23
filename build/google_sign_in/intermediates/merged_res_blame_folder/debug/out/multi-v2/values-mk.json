@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/bd815e5115147dc57a894469b00882c5/jetified-play-services-basement-16.0.1/res/values-mk/values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/google_sign_in/intermediates/res/merged/debug/values-mk/values-mk.xml",
+            "outputFile": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/google_sign_in/intermediates/res/merged/debug/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/bd815e5115147dc57a894469b00882c5/jetified-play-services-basement-16.0.1/res/values-mk/values.xml",

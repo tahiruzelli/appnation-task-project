@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/google_sign_in/intermediates/res/merged/debug/values/values.xml",
             "map": [
                 {
                     "source": "/Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/7f928a994fd94f3ba8ca4ad9f4c71475/media-1.0.0/res/values/values.xml",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "outputFile": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/google_sign_in/intermediates/res/merged/debug/values/values.xml",
+            "outputFile": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/7f928a994fd94f3ba8ca4ad9f4c71475/media-1.0.0/res/values/values.xml",

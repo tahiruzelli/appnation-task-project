@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tahiruzelli/Documents/GitHub/github_search_repo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/Users/tahiruzelli/Documents/GitHub/flutter-google-signin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/Users/tahiruzelli/.gradle/caches/transforms-2/files-2.1/0813e45a0b3806629b40dbeb70c75a60/jetified-play-services-base-17.1.0/res/values-lv/values.xml",
